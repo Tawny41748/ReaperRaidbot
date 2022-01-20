@@ -5,4 +5,4 @@ Simplemente descarga el archivo, extrae el .exe, inicialo pon tu token y ya esta
 
 Tutorial: 
 
-Squad: https://discord.gg/YSaNHrmS4f
+Squad: https://discord.gg/wvRpGa9MBd
